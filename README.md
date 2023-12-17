@@ -21,3 +21,13 @@ Here are some example patterns along with their console outputs:
 ### Pattern 4
 
 ![OutputOfCode04](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/1efc8e6e-a508-403c-8e3d-941fd0061600)
+
+### Pattern 5
+![OutputOfCode05](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/eb1bc8cd-7895-4dfc-823a-686567c204b5)
+
+### Pattern 6
+![OutputOfCode06](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/59e32a7d-dd1c-4751-9967-ed655ac4d771)
+
+### Pattern 7
+![OutputOfCode07](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/8245c189-f8f7-408d-b915-50cd7f408409)
+

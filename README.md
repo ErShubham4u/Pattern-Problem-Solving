@@ -33,3 +33,9 @@ Here are some example patterns along with their console outputs:
 
 ### Pattern 8
 ![OutputOfCode08](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/caab62b3-f97e-43ed-8510-37381574cae6)
+
+### Pattern 9
+![OutputOfCode09](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/987bba3a-650b-4a92-8981-ad843492f4d3)
+
+### Pattern 10
+![OutputOfCode10](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/c10b61f6-9f14-40f8-8516-61d783df538a)

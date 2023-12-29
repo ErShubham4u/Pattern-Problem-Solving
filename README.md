@@ -49,3 +49,6 @@ Here are some example patterns along with their console outputs:
 ### Pattern 13
 https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1
 ![Pattern13](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/71b45f61-c818-4674-9ef8-5efa14b07bb6)
+
+### Pattern 14
+![OutputOfCode14](https://github.com/ErShubham4u/Pattern-Problem-Solving/assets/100616631/97a590cf-8f81-4dc7-a05e-3d3b65fb1d4d)
